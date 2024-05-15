@@ -1,2 +1,4 @@
-package org.opencart.features;public class example {
+package org.opencart.features;
+
+public class Example {
 }

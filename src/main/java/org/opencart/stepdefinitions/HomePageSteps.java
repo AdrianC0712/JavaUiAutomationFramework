@@ -1,2 +1,4 @@
-package org.opencart.stepdefinitions;public class HomePageSteps {
+package org.opencart.stepdefinitions;
+
+public class HomePageSteps {
 }
